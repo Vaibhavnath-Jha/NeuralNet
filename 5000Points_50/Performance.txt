@@ -1,0 +1,5 @@
+Model Accuracy = 96.78% 
+Misclassification Rate = 3.22
+Learning Rate = 1.2
+Epoch = 50
+Time taken: 63.20923948287964 secs

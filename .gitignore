@@ -109,6 +109,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+5000Points/*.png
+5000Points_50/*.png
 
 # Spyder project settings
 .spyderproject

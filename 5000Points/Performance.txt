@@ -1,0 +1,3 @@
+Model Accuracy = 93.64% 
+Misclassification Rate = 6.36
+Time taken: 156.52939677238464 secs
