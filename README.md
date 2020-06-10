@@ -8,3 +8,7 @@ Program to visualize Linear Perceptron Model without using any Data Science libr
 
 #### Data_generator
 Program to generate random blob like data. Sample size can be tuned accordingly. I have chosen for 5000 points.
+
+
+### Linear_Perceptron
+Main program to visualize perceptron
