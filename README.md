@@ -3,7 +3,7 @@ Program to visualize Linear Perceptron Model without using any Data Science libr
 
 
 #### 5000Points_Folder 
--> Contains GIF example of the Training run
+-> Contains GIF example of the Training run<br/>.
 -> Performance.txt has all the measures used for the run and Model Accuracy
 
 #### Data_generator
